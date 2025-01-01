@@ -2,7 +2,7 @@
 
 This is a web-based application that allows users to upload PDF documents and receive an automatic summary using a pre-trained language model. The application leverages **Streamlit** for the user interface, **LangChain** for document preprocessing, and **Hugging Face Transformers** for utilizing the **LaMini-Flan-T5-248M** model to generate summaries.
 
-https://github.com/Prasun6736/Document-Extraction/blob/538ed5ca01c51e5c7307918ef638318d2273aa82/Screenshot%202025-01-01%20141908.png
+![img alt](https://github.com/Prasun6736/Document-Extraction/blob/538ed5ca01c51e5c7307918ef638318d2273aa82/Screenshot%202025-01-01%20141908.png)
 
 ## Features
 
